@@ -18,7 +18,11 @@ public class Multiplication {
         int a= 5;
         int b=6;
         int mult = a*b;
+        int sum;
+        sum a + b;
+        System.out.println(sum);
         System.out.println(mult);
+        
         
         // TODO code application logic here
     }
